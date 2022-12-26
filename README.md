@@ -1,6 +1,6 @@
 # **SafePaths**
 
-**Authors:** Anaiy Somalwar, Anthony Tafoya, Ashok Devireddy, Shrinandan Narayanan
+**Authors:** Shrinandan Narayanan, Anaiy Somalwar, Anthony Tafoya, Ashok Devireddy 
 
 **Front-End:** Flutter, Dart
 
